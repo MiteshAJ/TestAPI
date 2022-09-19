@@ -1,7 +1,7 @@
 {
   "Sectors": [
-    { "sid": "1", "name": "Automobile", "SubSectors": [{"name":"maintainance"},{"name":"AutoAnxillary"},{"name":"Engine"}]},
-    { "sid": "2", "name": "Healthcare", "SubSectors": [{"name":"orthology"},{"name":"dentist"},{"name": "Equipments"}]},
-    { "sid": "3", "name": "Sports","SubSectors": [{"name":"Football"},{"name":"Cricket"}]},
+    { "sid": "1", "name": "Automobile", "SubSectors": [{"name":"maintainance", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"},{"name":"AutoAnxillary", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"},{"name":"Engine", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"}]},
+    { "sid": "2", "name": "Healthcare", "SubSectors": [{"name":"orthology", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"},{"name":"dentist", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"},{"name": "Equipments", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"}]},
+    { "sid": "3", "name": "Sports","SubSectors": [{"name":"Football", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"},{"name":"Cricket", "url1": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb", "url2": "https://github.com/PranavKulkar/NatPRan/raw/main/demoroom%20(3).glb"}}]
              ]
 }
